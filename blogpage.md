@@ -8,13 +8,13 @@ title: Blog Page
 ## Echoes of Home
 
 <div class="blog-intro">
-  <p>   On the outskirts of the universe, I stumbled upon a celestial enigma known as Lumina. A planet that could be mistaken for Earth, with its familiar cities, oceans, and landscapes. It was like stepping into another dimension, a parallel world that mirrored our own.</p>
+  <p>   In the vast expanse of the cosmos, Lumina revealed itself as a celestial enigma, bathed in the ethereal glow of twin moons. A distant planet, it beckoned with landscapes that mimicked Earth in an uncanny symphony of familiarity — cities sprawling like cosmic constellations, oceans shimmering in reflective beauty, and mountains reaching for the cosmic heavens.</p>
   <a href="/blog1/" title="Read more about Title #1">READ MORE</a>
 </div>
 
 ## Shattered Horizon
 
 <div class="blog-intro">
-  <p>   Our voyage across the cosmos brought us to the distant galaxy of Astralara, where a new world named Elysium awaited our arrival after thirteen years of space travel. Our diverse team, fueled by the dream of exploration, descended onto the planet's surface, a seemingly idyllic haven.</p>
-  <a href="/blog/blog2/" title="Read more about Title #2">READ MORE</a>
+  <p>   Our interstellar odyssey navigated us through the vast cosmic expanse to the distant galaxy of Astralara. After an arduous thirteen-year journey through the cosmos, our diverse team, fueled by the shared dream of exploration, descended onto the waiting embrace of a new world named Elysium.</p>
+  <a href="/blog2/" title="Read more about Title #2">READ MORE</a>
 </div>
