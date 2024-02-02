@@ -2,32 +2,29 @@ body {
     font-family: Helvetica, sans-serif;
     color: #FAFAFA;
     background: #212121;
-    padding: 0 40px;
+    padding: 0;
+    margin: 0;
     text-align: center;
 }
 
-nav {
-    margin: 40px auto 0 auto;
-    width: 250px;
-    border-radius: 50px;
+.navbar {
     background: #686868;
 }
 
-nav ul {
+.navbar ul {
     display: flex;
     justify-content: space-evenly;
+    padding: 20px 0;
     margin: 0;
-    padding: 0;
 }
 
-nav ul li {
+.navbar ul li {
     list-style-type: none;
-    margin: 0;
 }
 
-nav ul li a {
+.navbar ul li a {
     display: inline-block;
-    padding: 20px;
+    padding: 10px;
     color: #FAFAFA;
     text-decoration: none;
     font-size: 1.2em;
@@ -36,4 +33,5 @@ nav ul li a {
 h1 {
     font-size: 8em;
     letter-spacing: -2px;
+    margin: 20px 0;
 }
