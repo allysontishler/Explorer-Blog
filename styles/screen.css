@@ -91,14 +91,5 @@ p {
 
 .blog-center p {
     text-align: center;
-}
-
-.blog-center a {
-    display: block;
-    text-align: center;
-    margin-top: 10px; /* Adjust the margin-top value for spacing between the paragraph and the "Read More" link */
-}
-
-.blog-center a:hover {
-    text-decoration: underline;
+    max-width: 600px;
 }
