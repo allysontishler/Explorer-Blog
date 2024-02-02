@@ -4,7 +4,8 @@ body {
     background: #212121;
     padding: 0;
     margin: 0;
-    text-align: center;
+    display: flex;
+    justify-content: space-between;
 }
 
 .navbar {
@@ -36,4 +37,11 @@ h1 {
     font-size: 8em;
     letter-spacing: -2px;
     margin: 20px 0;
+    text-align: right;
+}
+
+.blurb {
+    max-width: 300px;
+    text-align: left;
+    padding: 20px;
 }
