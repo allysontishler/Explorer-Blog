@@ -27,6 +27,7 @@ body {
 
 .navbar ul li {
     list-style-type: none;
+    margin-right: 0;
 }
 
 .navbar ul li a {
