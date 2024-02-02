@@ -5,20 +5,16 @@ title: Blog Page
 
 # Blog Posts
 
-## Title #1
+## Echoes of Home
 
 <div class="blog-intro">
-  <p>
-    Discover the wonders of an alien landscape that left me awe-struck. Navigate through vibrant hues and otherworldly terrain, capturing the essence of a surreal environment. Join me on this cosmic journey, and read more about the extraordinary encounter.
-  </p>
+  <p>   In the vast expanse of the cosmos, my interstellar journey brought me to a celestial anomaly known as Lumina, a planet bathed in the ethereal glow of twin moons. To my amazement, Lumina bore an uncanny resemblance to Earth, a mirror image of our familiar blue planet, with bustling cities, vast oceans, and landscapes that echoed the very essence of home.</p>
   <a href="/blog/blog1/" title="Read more about Title #1">READ MORE</a>
 </div>
 
-## Title #2
+## Shattered Horizon
 
 <div class="blog-intro">
-  <p>
-    Embark on a celestial adventure as I witness the dance of distant galaxies and observe the birth of new stars. The universe reveals its breathtaking beauty, inviting you to explore the cosmos with each entry. Read on to uncover the rich tapestry of celestial encounters.
-  </p>
+  <p>   Our voyage across the cosmos brought us to the distant galaxy of Astralara, where a new world named Elysium awaited our arrival after thirteen years of space travel. Our diverse team, fueled by the dream of exploration, descended onto the planet's surface, a seemingly idyllic haven.</p>
   <a href="/blog/blog2/" title="Read more about Title #2">READ MORE</a>
 </div>
