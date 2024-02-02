@@ -3,12 +3,6 @@ layout: layout.liquid
 title: Blog Page
 ---
 
----
-layout: layout.liquid
-title: "Blog Posts"
-date: 2024-02-01
----
-
 # Blog Posts
 
 ## Title #1
