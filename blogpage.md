@@ -9,7 +9,7 @@ title: Blog Page
 
 <div class="blog-intro">
   <p>   On the outskirts of the universe, I stumbled upon a celestial enigma known as Lumina. A planet that could be mistaken for Earth, with its familiar cities, oceans, and landscapes. It was like stepping into another dimension, a parallel world that mirrored our own.</p>
-  <a href="/blog/blog1/" title="Read more about Title #1">READ MORE</a>
+  <a href="/blog1/" title="Read more about Title #1">READ MORE</a>
 </div>
 
 ## Shattered Horizon
