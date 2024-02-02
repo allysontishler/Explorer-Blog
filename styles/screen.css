@@ -40,6 +40,7 @@ body {
     justify-content: space-between;
     align-items: flex-start;
     padding: 20px;
+    margin-top: 250px;
 }
 
 .title {
@@ -54,7 +55,7 @@ h1 {
 }
 
 .blurb {
-    max-width: 400px;
+    max-width: 475px;
     margin-left: 250px; 
 }
 
