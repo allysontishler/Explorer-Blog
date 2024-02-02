@@ -12,7 +12,9 @@ body {
 
 .navbar {
     background: #686868;
-    padding: 20px 0;
+    padding: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
     width: 100%;
 }
 
