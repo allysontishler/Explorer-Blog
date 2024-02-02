@@ -14,7 +14,9 @@ body {
 .navbar ul {
     display: flex;
     justify-content: space-evenly;
-    padding: 20px 0;
+    padding: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
     margin: 0;
 }
 
