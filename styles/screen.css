@@ -43,11 +43,11 @@ body {
 }
 
 .title {
-    text-align: right;
+    text-align: left;
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 8em;
     letter-spacing: -2px;
     line-height: 1.2;
     margin: 0;
@@ -55,6 +55,7 @@ h1 {
 
 .blurb {
     max-width: 400px;
+    margin-left: 40px; /* Adjust this value for space between title and blurb */
 }
 
 p {
