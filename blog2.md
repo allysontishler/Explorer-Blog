@@ -5,7 +5,7 @@ title: Blog 2
 
 # Shattered Horizon
 
-<div class="blog-center">
+<div class="blog-intro">
   <p>   Our interstellar odyssey navigated us through the vast cosmic expanse to the distant galaxy of Astralara. After an arduous thirteen-year journey through the cosmos, our diverse team, fueled by the shared dream of exploration, descended onto the waiting embrace of a new world named Elysium.</p>
   <p>   Elysium unfurled before our eyes like a celestial tapestry—an idyllic haven with lush landscapes, skies that painted the cosmos with vibrant hues, and the tantalizing promise of unknown wonders. However, beneath the surface of this apparent paradise, a dormant cosmic force, undisturbed for ages, stirred to life, unleashing chaos that shattered the tranquility we had expected.</p>
   <p>   As we ventured deeper into Elysium, subtle anomalies hinted at an otherworldly presence. The planet's atmosphere crackled with mysterious energy, and our instruments registered peculiar disturbances. The elusive threat gradually revealed itself, exerting a brutal force that fractured the very fabric of our reality.</p>
