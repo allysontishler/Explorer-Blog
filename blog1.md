@@ -5,7 +5,7 @@ title: Blog 1
 
 # Echoes of Home
 
-<div class="blog-intro">
+<div class="blog-center">
   <p>   On the outskirts of the universe, I stumbled upon a celestial enigma known as Lumina. A planet that could be mistaken for Earth, with its familiar cities, oceans, and landscapes. It was like stepping into another dimension, a parallel world that mirrored our own.</p>
   <p>   As I explored Lumina, the illusion began to crack. It turned out that the people living there, seemingly human, were actually aliens observing us. And to my disbelief, I found a duplicate of myself leading a life identical to mine on Earth. Lumina wasn't just a copy; it was a meticulously crafted replica, a cosmic stage set by these extraterrestrial beings.</p>
   <p>   The revelation triggered chaos. The aliens, realizing their secret was exposed, urged us to evacuate. It became a race against time through Lumina's streets, the atmosphere threatening to collapse. Panic spread among the inhabitants as the truth unraveled.</p>
