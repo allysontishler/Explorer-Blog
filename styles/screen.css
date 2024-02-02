@@ -55,7 +55,7 @@ h1 {
 
 .blurb {
     max-width: 400px;
-    margin-left: 40px; /* Adjust this value for space between title and blurb */
+    margin-left: 100px; /* Adjust this value for space between title and blurb */
 }
 
 p {
