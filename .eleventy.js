@@ -4,9 +4,9 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("styles");
 
   eleventyConfig.addShortcode("user", function(name, instagramUsername) {
-    return `div class="user">
-  <div class="user_name">${name}>/div>
-  <div class="user_instagram".@${instagramUsername}</div>
+    return `<div class="user">
+  <div class="user_name">${name}</div>
+  <div class="user_instagram">@${instagramUsername}</div>
   </div>`
   })
 };
